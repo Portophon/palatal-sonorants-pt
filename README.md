@@ -4,4 +4,12 @@ This is the repository contains the scripts used for the paper Trigo, L. & Silva
 
 Dictionary entries that were used in this study were colected from https://dicionario-aberto.net/recursos.
 
-Stats generation: https://github.com/Portophon/palatal-sonorants-pt/blob/main/NH_%26_LH_DicioAberto_stats.ipynb
+Stats generation: 
+
+https://github.com/Portophon/palatal-sonorants-pt/blob/main/NH_%26_LH_DicioAberto_stats.ipynb
+
+https://github.com/Portophon/palatal-sonorants-pt/blob/main/NH_%26_LH_Subtlex_pt_stats.ipynb
+
+https://github.com/Portophon/palatal-sonorants-pt/blob/main/NH_%26_LH_Wikcionario_stats.ipynb
+
+https://github.com/Portophon/palatal-sonorants-pt/blob/main/3%20-%20Cetem%20stats.ipynb
